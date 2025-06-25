@@ -1,3 +1,4 @@
+#!/bin/bash
 #!/usr/bin/env sh
 
 # This is a simple shell script wrapper around the Gradle wrapper
